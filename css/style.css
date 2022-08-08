@@ -23,6 +23,11 @@ body {
   padding: 20px;
   background: rgba(255,255,255,.85);
 }
+#content .travel{
+  background-color: aquamarine;
+  font-style: oblique;
+  font-kerning: auto;
+}
 
 h1, h2 {
   font-family: 'Gabriela', serif;
